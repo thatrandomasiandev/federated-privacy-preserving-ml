@@ -1,0 +1,7 @@
+n_samples: 3000
+feature_dim: 12
+noise_multiplier_list: [0.5, 1.0, 2.0]
+max_grad_norm: 1.0
+delta: 1.0e-5
+epochs: 30
+seeds: [42, 43]

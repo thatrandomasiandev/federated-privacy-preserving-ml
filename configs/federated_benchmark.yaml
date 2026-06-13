@@ -1,0 +1,9 @@
+n_clients_list: [5, 10]
+n_samples: 2000
+feature_dim: 12
+dirichlet_alpha_list: [0.5, 10.0]
+federated_rounds: 30
+local_epochs: 2
+centralized_epochs: 60
+target_accuracy: 0.85
+seeds: [42, 43]

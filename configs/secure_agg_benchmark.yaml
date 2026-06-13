@@ -1,0 +1,4 @@
+n_clients_list: [5, 8]
+update_dim: 64
+n_trials: 20
+seeds: [42, 43]

@@ -1,0 +1,16 @@
+# Combined benchmark config for all modules
+n_clients_list: [5, 10]
+n_samples: 2000
+feature_dim: 12
+dirichlet_alpha_list: [0.5, 10.0]
+federated_rounds: 30
+local_epochs: 2
+centralized_epochs: 60
+target_accuracy: 0.85
+noise_multiplier_list: [0.5, 1.0, 2.0]
+max_grad_norm: 1.0
+delta: 1.0e-5
+epochs: 30
+update_dim: 64
+n_trials: 20
+seeds: [42, 43]
