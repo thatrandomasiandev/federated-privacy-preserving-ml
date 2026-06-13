@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "fed-priv"
 version = "0.1.0"
-description = "PhD-level federated and privacy-preserving ML: FedAvg, DP-SGD, secure aggregation"
+description = "Research benchmarks for federated learning, differential privacy, and secure aggregation"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
