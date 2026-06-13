@@ -140,14 +140,14 @@ src/fed_priv/
 
 ## References
 
-- Abadi, M., et al. (2016). Deep learning with differential privacy. *CCS*.
-- Bonawitz, K., et al. (2017). Practical secure aggregation for privacy-preserving machine learning. *CCS*.
-- Dwork, C., McSherry, F., Nissim, K., & Smith, A. (2006). Calibrating noise to sensitivity in private data analysis. *TCC*.
-- Hsu, T.-M. H., Qi, H., & Brown, M. (2019). Measuring the effects of non-identical data distribution for federated visual classification. *arXiv:1909.06335*.
-- McMahan, H. B., Moore, E., Ramage, D., Hampson, S., & y Arcas, B. A. (2017). Communication-efficient learning of deep networks from decentralized data. *AISTATS*.
-- Mironov, I. (2017). Rényi differential privacy. *CSF*.
-- Wang, Y.-X., Balle, B., & Kasiviswanathan, S. P. (2019). Subsampled Rényi differential privacy and analytical moments accountant. *AISTATS*.
-- Zhao, Y., Li, M., Lai, L., Suda, N., Civin, D., & Chandra, V. (2018). Federated learning with non-IID data. *arXiv:1806.00582*.
+- Abadi, M., et al. (2016). Deep learning with differential privacy. *CCS*. [DOI](https://doi.org/10.1145/2976749.2978318)
+- Bonawitz, K., et al. (2017). Practical secure aggregation for privacy-preserving machine learning. *CCS*. [DOI](https://doi.org/10.1145/3133956.3133987)
+- Dwork, C., McSherry, F., Nissim, K., & Smith, A. (2006). Calibrating noise to sensitivity in private data analysis. *TCC*. [DOI](https://doi.org/10.1007/11681878_14)
+- Hsu, T.-M. H., Qi, H., & Brown, M. (2019). Measuring the effects of non-identical data distribution for federated visual classification. [arXiv](https://arxiv.org/abs/1909.06335)
+- McMahan, H. B., Moore, E., Ramage, D., Hampson, S., & y Arcas, B. A. (2017). Communication-efficient learning of deep networks from decentralized data. *AISTATS*. [arXiv](https://arxiv.org/abs/1602.05629)
+- Mironov, I. (2017). Rényi differential privacy. *CSF*. [DOI](https://doi.org/10.1109/CSF.2017.11)
+- Wang, Y.-X., Balle, B., & Kasiviswanathan, S. P. (2019). Subsampled Rényi differential privacy and analytical moments accountant. *AISTATS*. [arXiv](https://arxiv.org/abs/1908.08774)
+- Zhao, Y., Li, M., Lai, L., Suda, N., Civin, D., & Chandra, V. (2018). Federated learning with non-IID data. [arXiv](https://arxiv.org/abs/1806.00582)
 
 ---
 
